@@ -19,14 +19,11 @@
 **Glimpse of exploratory analysis:**
 The dataset initially comprises 225 financial indicators of US Stocks. The recorded stock data is from 2014 to 2018. Five features were utterly discarded from the dataset before the feature selection process. 
 
-
-![count_of_each_sector](https://github.com/user-attachments/assets/84c170f4-bd96-438c-8788-fa04e03b16ee)
+![count_of_each_sector](https://github.com/user-attachments/assets/77080f25-9641-4915-88b9-52d193f97660)
 
 As exhibited in Fig. 2, the highest oscillation was witnessed in the Industrial sector stock. Some companies had a maximum positive gain of close to 200. On the other hand, the most movement of the stock in the negative direction was 100. Glancing at the graph, one can presume that only a handful of businesses in the industrial sector are trading at relatively small amounts. 
 
-
 ![stock_image1](https://github.com/user-attachments/assets/d24f986f-3823-400f-bc45-0e4f677c7f1a)
-
 
 Fig. 3 also portrays flux in the price variation of the stock. The technology business sector comprises a couple of blue-chip stocks. The highest gain noted was approximately 1200. According to the 2016 technology graph, the technology industry does not have numerous bear 
 markets.
